@@ -1,16 +1,9 @@
 # news_getx
 
-A new Flutter project.
+Aplicación de noticias del Curso de Fernando Herrera recreado con Getx Pattern
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_2022-02-03-13-01-30-270_com alexfdz55 news_getx](https://user-images.githubusercontent.com/47995554/152403516-7648aae8-4716-4253-bfa2-6d6a281d60ab.jpg)
+![Screenshot_2022-02-03-13-01-24-611_com alexfdz55 news_getx](https://user-images.githubusercontent.com/47995554/152403530-bc56c15b-c7ba-4a1d-8bea-27352d45d103.jpg)
